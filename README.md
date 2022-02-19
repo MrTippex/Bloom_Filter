@@ -19,9 +19,6 @@ and prints a statistical analysis about the amount of mistakes made in the simul
 
 ## Text Files:
 
-- #### M.M.N 14.docx
-The assignment main doc.
-
 - #### "All" and "even"
 Used as default inputs to be used by "main.py".
 
