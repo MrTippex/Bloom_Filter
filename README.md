@@ -1,6 +1,6 @@
 # Bloom Filters
 
-#### This is assignment 14 from the [Data Structures & Intro to Algorithms](https://www.openu.ac.il/courses/20407.htm) course in [The Open University of Israel](https://www.openu.ac.il/).
+#### This is a little project I wanted to get an experiance with
 #### (More about [the 'Bloom Filter' hashing method](https://en.wikipedia.org/wiki/Bloom_filter))
 
 ## Code Files:
